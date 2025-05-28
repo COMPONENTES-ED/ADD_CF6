@@ -161,7 +161,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/228117_CF06_DU.pdf',
+        download: 'downloads/228136_CF04_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -179,7 +179,7 @@ export default {
     Name:
       'Exploración, validación y visualización de datos para la toma de decisiones',
     Description:
-      'Este componente aborda los fundamentos y técnicas del análisis exploratorio y la visualización de datos, enfocado en la toma de decisiones efectivas. Examina métodos estadísticos y técnicas de visualización avanzada y principios de comunicación de datos, integrando aspectos teóricos con aplicaciones prácticas mediante herramientas modernas. Diseñado para desarrollar competencias en la exploración sistemática y su traducción en insights accionables.',
+      'Este componente aborda los fundamentos y técnicas del análisis exploratorio y la visualización de datos, enfocado en la toma de decisiones efectivas. Examina métodos estadísticos y técnicas de visualización avanzada y principios de comunicación de datos, integrando aspectos teóricos con aplicaciones prácticas mediante herramientas modernas. Diseñado para desarrollar competencias en la exploración sistemática y su traducción en <em>insights</em> accionables.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [],
