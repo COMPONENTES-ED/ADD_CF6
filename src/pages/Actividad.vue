@@ -18,12 +18,12 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre exploración, validación y
+              Prueba de conocimientos sobre Exploración, validación y
               visualización de datos para la toma de decisiones
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre exploración, validación y
+            Validar el conocimiento adquirido sobre Exploración, validación y
             visualización de datos para la toma de decisiones. Esto se trabaja a
             partir de un conjunto de preguntas con el propósito de buscar una
             dinámica de razonamiento ágil sobre opciones cerradas y reafirmar un
